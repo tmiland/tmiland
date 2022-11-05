@@ -24,7 +24,7 @@ taxonomy:
 
 ###  Here’s a guide on how to make Zwift run on Debian 11, together with all the settings.
 
-![Screenshot from 2022-10-09 14-11-55|690x373](/_images/2022/11/Screenshot_from_2022-11-04-20-39-42.png)
+![Screenshot from 2022-10-09 14-11-55|690x373](/_images/Screenshot_from_2022-11-04-20-39-42.png)
 
 Using:
 
@@ -106,7 +106,7 @@ Next up:
 
 Download [this image](https://camo.githubusercontent.com/516cad17dcf42ab9344f5bcb87cc9b99f8fe9f164ee6193fab06627a14786cef/687474703a2f2f63646e2e616b616d61692e737465616d7374617469632e636f6d2f737465616d2f617070732f3338383038302f6865616465722e6a70673f743d31343437333737313439) and add it in the Game info tab.
 
-![Borderless Gaming](/_images/2022/11/borderless_gaming.jpeg)
+![Borderless Gaming](/_images/borderless_gaming.jpeg)
 
 **Running Zwift**
 
@@ -121,7 +121,7 @@ Download [this image](https://camo.githubusercontent.com/516cad17dcf42ab9344f5bc
 5. Open Zwift Companion app for Bluetooth 
   - **(Only needed for heart rate monitor if you are running a Kickr V5 or V6 with Direct Connect)**
 
-![Screenshot from 2022-10-09 14-05-59|690x363](/_images/2022/11/Screenshot_from_2022-10-09-14-05-59.png)
+![Screenshot from 2022-10-09 14-05-59|690x363](/_images/Screenshot_from_2022-10-09-14-05-59.png)
 
 6. Ride on
 
