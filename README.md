@@ -14,4 +14,9 @@
 
 #### 📢 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To: Zwift on Debian Linux](https://tmiland.com/zwift-on-debian-linux/)
+- [Automatic install script for Invidious](https://tmiland.com/invidious-installer/)
+- [Automatic install script for The Linux kernel](https://tmiland.com/kernel-installer/)
+- [Hello world!](https://tmiland.com/hello-world/)
+- [Patched dpkg package for debian](https://tmiland.com/patched-dpkg-package-for-debian/)
 <!-- BLOG-POST-LIST:END -->
