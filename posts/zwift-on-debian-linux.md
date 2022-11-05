@@ -128,3 +128,5 @@ Download [this image](https://camo.githubusercontent.com/516cad17dcf42ab9344f5bc
 Tested (Oct 9, 2022) with a [100 km + ride](https://www.zwift.com/activity/1185451456287768576) without fault, and runs way better with less load than on Windows 10.
 
 Enjoy! 😎
+
+*This guide is also posted over at [forums.zwift.com/t/how-to-zwift-on-debian-linux](https://forums.zwift.com/t/how-to-zwift-on-debian-linux/)*
