@@ -4,6 +4,8 @@
 title: "How To: Zwift on Debian Linux"
 post_status: publish
 post_excerpt: Here’s a guide on how to make Zwift run on Debian 11, together with all the settings.
+comment_status: open
+featured_image: _images/2022/11/Screenshot_from_2022-11-04-20-39-42.png
 taxonomy:
     category:
         - linux
