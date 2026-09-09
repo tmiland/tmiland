@@ -18,9 +18,9 @@
 
 #### 📢 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [pfSense package: DDoS protection &lpar;native pf or Suricata&rpar; + AbuseIPDB/X-ARF abuse reporting with MySQL logging and a native web UI](https://tmiland.com/pfsense-abuseipdb/)
+- [Self-hosted Firefox Sync: fixing 503 “unable to get a node” on fresh installs](https://tmiland.com/firefox-sync/)
+- [A bash script to check nginx logs for signs of a DDoS attack](https://tmiland.com/nginx-ddos-checker/)
 - [Automatic install script for Invidious](https://tmiland.com/invidious-installer/)
 - [Automatic install script for The Linux kernel](https://tmiland.com/kernel-installer/)
-- [How To: Zwift on Debian Linux](https://tmiland.com/zwift-on-debian-linux/)
-- [Patched dpkg package for debian](https://tmiland.com/patched-dpkg-package-for-debian/)
-- [Hello world!](https://tmiland.com/hello-world/)
 <!-- BLOG-POST-LIST:END -->
