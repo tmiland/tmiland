@@ -18,9 +18,9 @@
 
 #### 📢 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [pfSense package: DDoS protection &lpar;native pf or Suricata&rpar; + AbuseIPDB/X-ARF abuse reporting with MySQL logging and a native web UI](https://tmiland.com/pfsense-abuseipdb/)
-- [Self-hosted Firefox Sync: fixing 503 “unable to get a node” on fresh installs](https://tmiland.com/firefox-sync/)
-- [A bash script to check nginx logs for signs of a DDoS attack](https://tmiland.com/nginx-ddos-checker/)
-- [Automatic install script for Invidious](https://tmiland.com/invidious-installer/)
-- [Automatic install script for The Linux kernel](https://tmiland.com/kernel-installer/)
+- [Automatic install and update script for Invidious](https://tmiland.com/invidious-updater/)
+- [bible.sh: verses from bible.com in your terminal — votd, search, compare and translate](https://tmiland.com/bible-sh/)
+- [deb.tmiland.com: a personal APT repository with 40+ Linux apps](https://tmiland.com/deb-tmiland-com/)
+- [pfSense theme: light/dark auto-switching &lpar;prefers-color-scheme&rpar; + dark login page, as a pfSense package](https://tmiland.com/pfsense-theme-lightdark/)
+- [AdGuard Home on pfSense: an adopt-first manager package that never touches your working install](https://tmiland.com/pfsense-adguardhome/)
 <!-- BLOG-POST-LIST:END -->
