@@ -18,9 +18,9 @@
 
 #### 📢 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Resurrecting Atom on Modern Electron, Part 3: Paranoia as a Method](https://tmiland.com/resurrecting-atom-modern-electron-part-3/)
+- [Resurrecting Atom on Modern Electron, Part 2: The Walls](https://tmiland.com/resurrecting-atom-modern-electron-part-2/)
+- [Resurrecting Atom on Modern Electron, Part 1: Why Climb the Ladder](https://tmiland.com/resurrecting-atom-modern-electron-part-1/)
 - [Automatic install and update script for Invidious](https://tmiland.com/invidious-updater/)
 - [bible.sh: verses from bible.com in your terminal — votd, search, compare and translate](https://tmiland.com/bible-sh/)
-- [deb.tmiland.com: a personal APT repository with 40+ Linux apps](https://tmiland.com/deb-tmiland-com/)
-- [pfSense theme: light/dark auto-switching &lpar;prefers-color-scheme&rpar; + dark login page, as a pfSense package](https://tmiland.com/pfsense-theme-lightdark/)
-- [AdGuard Home on pfSense: an adopt-first manager package that never touches your working install](https://tmiland.com/pfsense-adguardhome/)
 <!-- BLOG-POST-LIST:END -->
