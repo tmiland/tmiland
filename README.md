@@ -18,9 +18,9 @@
 
 #### 📢 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [fancontrol-gui 1.0.0: the fancontrol GUI is back, on Qt6/KF6](https://tmiland.com/fancontrol-gui-1-0-0/)
 - [Popular Bible Verses on your Google Home Ambient screensaver](https://tmiland.com/popular-bible-verses-google-home-ambient/)
 - [opencode-token-min: a plugin that stops long AI sessions from re-billing your whole conversation](https://tmiland.com/opencode-token-min/)
 - [big-pickle: a self-replicating AI agent that trains on its own behavior](https://tmiland.com/big-pickle-self-replicating-ai-agent/)
 - [Resurrecting Atom on Modern Electron, Part 3: Paranoia as a Method](https://tmiland.com/resurrecting-atom-modern-electron-part-3/)
-- [Resurrecting Atom on Modern Electron, Part 2: The Walls](https://tmiland.com/resurrecting-atom-modern-electron-part-2/)
 <!-- BLOG-POST-LIST:END -->
