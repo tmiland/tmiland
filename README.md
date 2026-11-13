@@ -18,9 +18,9 @@
 
 #### 📢 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimized Linux kernels on Debian: profiles, CachyOS BORE, and boot verification](https://tmiland.com/kernel-installer-optimized-profiles/)
 - [fancontrol-gui 1.0.0: the fancontrol GUI is back, on Qt6/KF6](https://tmiland.com/fancontrol-gui-1-0-0/)
 - [Popular Bible Verses on your Google Home Ambient screensaver](https://tmiland.com/popular-bible-verses-google-home-ambient/)
 - [opencode-token-min: a plugin that stops long AI sessions from re-billing your whole conversation](https://tmiland.com/opencode-token-min/)
 - [big-pickle: a self-replicating AI agent that trains on its own behavior](https://tmiland.com/big-pickle-self-replicating-ai-agent/)
-- [deb.tmiland.com: a personal APT repository with 40+ Linux apps](https://tmiland.com/deb-tmiland-com/)
 <!-- BLOG-POST-LIST:END -->
